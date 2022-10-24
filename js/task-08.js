@@ -38,4 +38,4 @@ function onFormSubmit(event) {
 
     console.log(`email: ${email.value}, Password: ${password.value}`);
     event.currentTarget.reset();
-}
+};
